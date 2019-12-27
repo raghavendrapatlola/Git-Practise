@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{1B15C841-ED36-4F71-82B7-42127959E44C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentAPI/Startup.cs">
+    <Files>
+      <File FileName="StudentAPI/Program.cs" Line="7" Column="35" />
+      <File FileName="StudentAPI/Controllers/WeatherForecastController.cs" />
+      <File FileName="StudentAPI/appsettings.json" Line="11" Column="24" />
+      <File FileName="StudentAPI/Properties/launchSettings.json" />
+      <File FileName="StudentAPI/Startup.cs" Line="34" Column="88" />
+      <File FileName="StudentAPI/Models/Group.cs" Line="7" Column="27" />
+      <File FileName="StudentAPI/Models/User.cs" Line="11" Column="41" />
+      <File FileName="StudentAPI/Models/MyWebAPIContext.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentAPI" expanded="True" selected="True">
+            <Node name="StudentAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StudentAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
